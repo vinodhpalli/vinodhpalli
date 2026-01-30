@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pallivinodh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pallivinodh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/vinodhpalli/daily-python-practice.git)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pallivinodh&icon=0&color=0)](https://visitcount.itsvg.in)
