@@ -27,6 +27,7 @@ I enjoy working with data, finding patterns, and converting insights into decisi
 - LinkedIn: www.linkedin.com/in/
 palli-vinodh
 Vanity URL name
+- Medium:https://medium.com/@vinodhpalli7
 
 
 
