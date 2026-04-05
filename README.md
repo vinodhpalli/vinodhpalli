@@ -1,33 +1,78 @@
-## Hi 👋 I'm Vinodh Palli
+# 👋 Hi, I'm Vinodh Palli  
 
-🎯 Aspiring Data Scientist | Python | EDA | Statistics  
-📍 India
+🎯 Data Analyst | Aspiring Data Scientist  
+📍 India  
 
-### 🔹 About Me
-I am a data science student with strong foundations in Python and Exploratory Data Analysis.  
-I enjoy working with data, finding patterns, and converting insights into decisions.
+---
 
-### 🔹 Skills
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Exploratory Data Analysis (EDA)
-- Statistics (Basics)
+## 🔹 About Me  
+I am a data-focused problem solver with hands-on experience in Python, SQL, and data visualization.  
+I specialize in cleaning, analyzing, and transforming raw data into actionable insights.  
 
-### 🔹 Projects
-- 🐍 Python Fundamentals – Programs, OOP, Problem Solving  
-- 📊 Exploratory Data Analysis – Data cleaning, visualization & insights
+I focus on extracting meaningful patterns from data that support better decision-making.
 
-### 🔹 Currently Learning
-- Machine Learning
-- SQL
+---
 
-📫 Connect with me:
-- GitHub: https://github.com/vinodhpalli
-- LinkedIn: www.linkedin.com/in/
-palli-vinodh
-Vanity URL name
-- Medium:https://medium.com/@vinodhpalli7
+## 🔹 Skills  
 
+### 💻 Programming & Querying  
+- Python  
+- SQL  
+
+### 📊 Data Analysis  
+- Pandas  
+- NumPy  
+- Exploratory Data Analysis (EDA)  
+
+### 📈 Visualization  
+- Power BI  
+- Matplotlib  
+- Seaborn  
+
+### 📚 Core Concepts  
+- Statistics  
+- Data Cleaning  
+- Data Transformation  
+
+---
+
+## 🔹 Projects  
+
+### 📊 AmbitionBox EDA Analysis  
+- Performed data cleaning and preprocessing  
+- Conducted exploratory data analysis on salary trends  
+- Identified key insights about companies and job roles  
+- Created visualizations for better understanding  
+
+🔗 **GitHub Repository:**  
+https://github.com/vinodhpalli/AmbitionBox-EDA-Analysis  
+
+---
+
+### 🐍 Python Fundamentals  
+- Built programs using core Python concepts  
+- Applied Object-Oriented Programming (OOP)  
+- Strengthened problem-solving skills  
+
+---
+
+## 🔹 Currently Learning  
+- Machine Learning (real-world applications)  
+- Advanced SQL (joins, window functions, optimization)  
+- Power BI (interactive dashboards & storytelling)  
+
+---
+
+## 📫 Connect With Me  
+- 🔗 GitHub: https://github.com/vinodhpalli  
+- 🔗 LinkedIn: https://www.linkedin.com/in/palli-vinodh/
+- 🔗 Medium: https://medium.com/@vinodhpalli7 
+
+---
+
+## ⚡ What I'm Working Towards  
+- Building real-world data projects  
+- Creating impactful dashboards  
+- Transitioning into a Data Analyst / Data Scientist role  
 
 
