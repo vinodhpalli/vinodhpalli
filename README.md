@@ -1,78 +1,141 @@
-# 👋 Hi, I'm Vinodh Palli  
+# Hi 👋, I'm Palli Vinodh
 
-🎯 Data Analyst | Aspiring Data Scientist  
-📍 India  
+### Data Scientist Aspirant | MCA Candidate | Machine Learning & AI Enthusiast
 
----
-
-## 🔹 About Me  
-I am a data-focused problem solver with hands-on experience in Python, SQL, and data visualization.  
-I specialize in cleaning, analyzing, and transforming raw data into actionable insights.  
-
-I focus on extracting meaningful patterns from data that support better decision-making.
+📍 Hyderabad, Telangana, India
 
 ---
 
-## 🔹 Skills  
+## 🚀 About Me
 
-### 💻 Programming & Querying  
-- Python  
-- SQL  
+I am a passionate Data Science student with a strong interest in Machine Learning, Deep Learning, Generative AI, and MLOps.
 
-### 📊 Data Analysis  
-- Pandas  
-- NumPy  
-- Exploratory Data Analysis (EDA)  
+I enjoy building end-to-end data science solutions—from data preprocessing and exploratory data analysis to model development, evaluation, deployment, and monitoring.
 
-### 📈 Visualization  
-- Power BI  
-- Matplotlib  
-- Seaborn  
-
-### 📚 Core Concepts  
-- Statistics  
-- Data Cleaning  
-- Data Transformation  
+Currently pursuing my MCA at Acharya Nagarjuna University while continuously enhancing my skills through hands-on projects and real-world datasets.
 
 ---
 
-## 🔹 Projects  
+## 🎯 Career Objective
 
-### 📊 AmbitionBox EDA Analysis  
-- Performed data cleaning and preprocessing  
-- Conducted exploratory data analysis on salary trends  
-- Identified key insights about companies and job roles  
-- Created visualizations for better understanding  
-
-🔗 **GitHub Repository:**  
-https://github.com/vinodhpalli/AmbitionBox-EDA-Analysis  
+My goal is to become a Data Scientist who combines analytical thinking, machine learning, and AI technologies to solve real-world business problems and build impactful data-driven solutions.
 
 ---
 
-### 🐍 Python Fundamentals  
-- Built programs using core Python concepts  
-- Applied Object-Oriented Programming (OOP)  
-- Strengthened problem-solving skills  
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+- SQL
+
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
+
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- Random Forest
+- Decision Trees
+- Support Vector Machines
+- K-Nearest Neighbors
+
+### Deep Learning & NLP
+- TensorFlow
+- Keras
+- Natural Language Processing
+- Generative AI
+
+### MLOps & Deployment
+- MLflow
+- Prefect
+- Streamlit
+- Git & GitHub
 
 ---
 
-## 🔹 Currently Learning  
-- Machine Learning (real-world applications)  
-- Advanced SQL (joins, window functions, optimization)  
-- Power BI (interactive dashboards & storytelling)  
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- MLOps
+- Generative AI Applications
 
 ---
 
-## 📫 Connect With Me  
-- 🔗 GitHub: https://github.com/vinodhpalli  
-- 🔗 LinkedIn: https://www.linkedin.com/in/palli-vinodh/
-- 🔗 Medium: https://medium.com/@vinodhpalli7 
+## 🏆 Certifications
+
+- Introduction to Programming Using Python
+- Exploratory Data Analysis
+- Data Analysis with SQL
+- Analyzing and Visualizing Data with Microsoft Power BI
+- Program with PL/SQL
 
 ---
 
-## ⚡ What I'm Working Towards  
-- Building real-world data projects  
-- Creating impactful dashboards  
-- Transitioning into a Data Analyst / Data Scientist role  
+## 💼 Featured Projects
 
+### 🚗 Car Price Prediction System
+Machine Learning model to predict car prices using vehicle specifications and market attributes.
 
+**Tech Stack:** Python, Scikit-Learn, Streamlit
+
+---
+
+### 📊 AmbitionBox EDA Analysis
+Comprehensive Exploratory Data Analysis on company reviews, salaries, jobs, and employee experiences.
+
+**Tech Stack:** Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### 🎵 SQL Music Store Analysis
+Advanced SQL project analyzing customer behavior, sales trends, and business insights.
+
+**Tech Stack:** MySQL, SQL
+
+---
+
+### 📈 Placement Prediction System
+Machine Learning solution for predicting interview success probability based on student performance metrics.
+
+**Tech Stack:** Scikit-Learn, MLflow, Streamlit
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodhpalli&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhpalli&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: vinodhpalli7@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/palli-vinodh/
+
+📝 Medium:
+https://medium.com/@vinodhpalli7
+
+💻 GitHub:
+https://github.com/vinodhpalli
+
+---
+
+### 💡 Quote
+
+"Turning Data into Insights and Insights into Intelligent Solutions."
+
+⭐ Feel free to explore my repositories and connect with me for collaboration opportunities in Data Science, Machine Learning, and AI.
