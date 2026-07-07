@@ -1,111 +1,322 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Palli%20Vinodh&fontAlign=50&fontAlignY=38&color=0:6C63FF,100:3B1E8C&fontColor=ffffff"/>
+# Hi, I'm Palli Vinodh 👋
+
+### 🤖 Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
+
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8A2BE2&width=650&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Explorer;Building+Production+Ready+AI+Applications"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=8A63FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Explorer;Building+Production+Ready+AI+Solutions;Open+to+Data+Scientist+Roles"/>
-</p>
+<p>
+<a href="https://www.linkedin.com/in/palli-vinodh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-Acharya%20Nagarjuna%20University-blueviolet?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Badge"/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-3B1E8C?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge"/>
-</p>
+<a href="mailto:vinodhpalli7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/vinodhpalli" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Premium%20Design-6C63FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/palli-vinodh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vinodhpalli7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/vinodhpalli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodhpalli&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/vinodhpalli?style=for-the-badge&color=8A63FF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/vinodhpalli?style=for-the-badge&color=3B1E8C" alt="Stars"/>
+<a href="https://github.com/vinodhpalli">
+<img src="https://komarev.com/ghpvc/?username=vinodhpalli&style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-# 👤 About Me
+# 🧬 About Me
 
-I am a software engineer and data scientist specializing in building production-grade AI systems, scalable machine learning models, and data-driven solutions. With an analytical and product engineering mindset, I focus heavily on the complete data lifecycle—from robust automated data ingestion and preprocessing pipelines to deploying predictive modeling solutions and exploring complex generative AI workflows. My mission is to architect intelligent, secure, and performant AI architectures that bridge foundational data science with enterprise engineering.
+```python
+vinodh = {
+    "role": [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "Generative AI Enthusiast"
+    ],
 
-* **Software Engineering & Data Science Core:** Strong engineering foundations in Python execution models, advanced relational schema design, data structures, and lifecycle optimization pipelines.
-* **AI/ML & Deep Learning Expertise:** Designing predictive pipelines utilizing classical statistical modeling, ensemble modeling frameworks, sequence structures, and computer vision features.
-* **Generative AI & Modern Workflows:** Actively researching context-aware Retrieval-Augmented Generation (RAG) applications, large language models (LLMs), and framework agents.
-* **Product Engineering Mindset:** Packaging model inference systems behind clean web interfaces, ensuring production reliability, reproducible experiments, and scalable performance metrics.
+    "location": "Hyderabad, Telangana 🇮🇳",
 
-### 🎯 Open To
-* Data Scientist Positions
-* Machine Learning Engineer Roles
-* AI Engineer & Full Stack AI Developer Openings
+    "education": "MCA @ Acharya Nagarjuna University",
+
+    "focus": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Generative AI",
+        "LLMs",
+        "RAG"
+    ],
+
+    "skills": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Scikit-Learn",
+        "TensorFlow",
+        "XGBoost",
+        "MLflow",
+        "Streamlit"
+    ],
+
+    "currently_learning": [
+        "LangChain",
+        "AI Agents",
+        "MLOps",
+        "Advanced NLP"
+    ],
+
+    "goal":
+    "Build scalable AI applications that solve real-world business problems.",
+
+    "fun_fact":
+    "I enjoy transforming raw datasets into intelligent business solutions."
+}
+```
+
+---
+
+# 🏆 Impact Highlights
+
+| 📈 Achievement | 🎯 Result |
+|---------------|-----------|
+| AI Data Analyst Copilot | Chat with CSV, Excel & PDF using AI |
+| Car Price Prediction | End-to-End ML Pipeline & Deployment |
+| Driver Drowsiness Detection | Real-time Computer Vision Application |
+| Interview Success Intelligence System | ML Regression Prediction System |
+| AmbitionBox EDA Analysis | Business Insights from Real-world Data |
+| SQL Music Store Analysis | Advanced SQL Analytics & KPIs |
+| Blinkit Power BI Dashboard | Interactive Business Intelligence Dashboard |
+| Published Technical Articles | Medium Data Science Writer |
+
+---
+
+# 💼 Experience
+
+## 🟢 Data Science Trainee — Innomatics Research Labs
+
+**December 2025 – Present · Hyderabad**
+
+- Learned Python, SQL, Power BI, Machine Learning & Deep Learning
+- Built multiple end-to-end Machine Learning projects
+- Worked on deployment using Streamlit
+- Implemented ML pipelines using MLflow
+- Practiced real-world business datasets
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
-  </a>
-</p>
+## 💻 Languages & Databases
 
-### 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
-  </a>
-</p>
-
-### 🗄️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql" />
-  </a>
-</p>
-
-### ☁️ Cloud, DevOps & Tooling
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
 </p>
 
 ---
 
-# 📊 AI/ML Expertise
+## 🤖 Machine Learning
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Machine Learning** | Advanced | Supervised & Unsupervised Learning, Ensemble Methods (XGBoost, LightGBM, Random Forest), Feature Engineering, Hyperparameter Tuning |
-| **Data Analysis** | Advanced | Exploratory Data Analysis (EDA), Statistical Inference, Automated Preprocessing, Dynamic Data Aggregation |
-| **Deep Learning** | Intermediate | Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM) Networks |
-| **NLP** | Intermediate | Vector Spaces, Tokenization, Sentiment Parsing, Feature Mining, Text Classification |
-| **Generative AI** | Learning | Retrieval-Augmented Generation (RAG) Architectures, LangChain Application Orchestration, Hugging Face Integrations |
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- Random Forest
+- Decision Trees
+- KNN
+- Support Vector Machine
+- Linear Regression
+
+---
+
+## 📊 Data Analysis
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel
+
+---
+
+## 🧠 Deep Learning
+
+- TensorFlow
+- Keras
+- ANN
+- CNN
+- LSTM
+- NLP
+
+---
+
+## ✨ Generative AI
+
+- LangChain
+- Hugging Face
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+
+---
+
+## 🚀 MLOps & Deployment
+
+- MLflow
+- Prefect
+- Streamlit
+- Git
+- GitHub
+
+---
+
+# 🌱 Currently Exploring
+
+```
+🔧 MLOps              → MLflow, Prefect, Deployment Pipelines
+
+🤖 LLM Applications   → LangChain, Hugging Face
+
+🧠 Generative AI      → RAG Applications
+
+🚀 AI Agents          → Autonomous AI Systems
+
+📊 Production ML      → End-to-End Machine Learning Pipelines
+```
 
 ---
 
 # 🚀 Featured Projects
 
-<details>
-<summary><b>🤖 AI Data Analyst Copilot</b></summary>
-<br/>
+## 🤖 AI Data Analyst Copilot
 
-An interactive workspace workspace designed to empower technical and non-technical stakeholders to securely query structured and unstructured data using natural language processing chains.
+AI-powered chatbot capable of analyzing CSV, Excel and PDF datasets using natural language.
 
-| Spec | Metrics & Details |
-| :--- | :--- |
-| **Stack** | Python, Pandas, Streamlit, Large Language Model APIs |
-| **Scale** | Multi-format data processing including high-dimensional CSVs, Excel worksheets, and layout-dense PDFs |
-| **Performance** | Sub-second latency on standard file processing and vector semantic parsing evaluations |
-| **Security** | Isolated session state parameters with stateless API communication configurations |
-| **Impact** | Decreased structural analytics generation time by transforming complex ad-hoc requests into conversational feedback loops |
+**Tech Stack**
 
-**Repository:** `https://github.com/vinodhpalli/ai-data-analyst-copilot`
+- Python
+- Streamlit
+- Pandas
+- LLM
+- Data Visualization
 
-```text
-Professional Breakdown:
-• Engineered context-aware retrieval modules allowing conversational querying across complex structural schemas.
-• Built a modular data visualization rendering engine using Streamlit elements.
-• Integrated advanced file processing boundaries to parse raw tabular structures accurately.
+---
+
+## 🚗 Car Price Prediction
+
+Built an end-to-end Machine Learning pipeline to predict vehicle prices using regression algorithms.
+
+---
+
+## 😴 Driver Drowsiness Detection
+
+Real-time driver monitoring system using Computer Vision and MediaPipe.
+
+---
+
+## 📈 Interview Success Intelligence System
+
+Predicts interview success probability using Machine Learning and MLflow deployment.
+
+---
+
+## 📊 AmbitionBox EDA Analysis
+
+Exploratory Data Analysis on salaries, reviews, companies, jobs and employee satisfaction.
+
+---
+
+## 🎵 SQL Music Store Analysis
+
+Advanced SQL project solving real-world business analytics problems.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinodhpalli&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhpalli&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodhpalli&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhpalli&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinodhpalli&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+| 🏫 Institution | 📚 Program |
+|---------------|------------|
+| Acharya Nagarjuna University | Master of Computer Applications (2024–2026) |
+| Innomatics Research Labs | Data Science Program |
+| RK Degree College | B.Sc Computer Science |
+
+---
+
+# 🏅 Certifications
+
+- 🥇 Machine Learning
+- 🥇 Data Analysis with SQL
+- 🥇 Microsoft Power BI
+- 🥇 Exploratory Data Analysis
+- 🥇 Introduction to Programming Using Python
+
+---
+
+# 💬 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/palli-vinodh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vinodhpalli7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/vinodhpalli">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://medium.com/@vinodhpalli7">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Turning Data into Insights and Building AI Solutions that Create Real Business Impact."**
+
+⭐ If you enjoy my work, consider following my GitHub profile and connecting with me on LinkedIn.
